@@ -1,3 +1,4 @@
+/* eslint-disable no-console */
 import { readFileSync, readdirSync, statSync, unlinkSync, writeFileSync } from "fs";
 import GPT3Tokenizer from "gpt3-tokenizer";
 import { join } from "path";
