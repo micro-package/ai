@@ -2,4 +2,3 @@ files/**
 indexes/**
 storage/**
 gpt_index/**
-node_modules/**
